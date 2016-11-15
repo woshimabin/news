@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="DarkGray">#9000</color>
+    <color name="Black">#000</color>
+    <color name="IconColor">#56abe4</color>
+    <color name="TextColor_off">#a9b7b7</color>
+    <color name="TextColor_on">#56abe4</color>
+    <color name="white">#fff</color>
+    <color name="yello">#e6e87d</color>
+    <color name="blue">#5fa8ec</color>
+    <color name="green">#6ee451</color>
+    <color name="red">#ec5e33</color>
+    <color name="yejian">#262626</color>
+</resources>
